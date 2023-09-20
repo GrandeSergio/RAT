@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Route Analysis Tool (RAT) is a Python script that performs Linear Referencing System (LRS) operations on geospatial data and generates a point Shapefile with located data along a specified route. This tool is designed to work with polygon, line, and point geometries and is particularly useful for tasks involving spatial analysis and route-based data extraction.
+The Route Analysis Tool (RAT) is a Python script that performs Linear Referencing System (LRS) operations on geospatial data such as nearest distance to object in specific mileage and generates a point Shapefile with located data along a specified route. This tool is designed to work with polygon, line, and point geometries and is particularly useful for tasks involving spatial analysis and route-based data extraction.
 
 ## Functionality
 
